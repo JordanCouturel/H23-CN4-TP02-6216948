@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppCamera", "TestAppCamera\TestAppCamera.csproj", "{C8973F50-9965-4B64-A29E-CBED7B21E283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCamera", "AppCamera\AppCamera.csproj", "{78FE1120-857D-4424-9DBA-4C208637C1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8973F50-9965-4B64-A29E-CBED7B21E283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8973F50-9965-4B64-A29E-CBED7B21E283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8973F50-9965-4B64-A29E-CBED7B21E283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8973F50-9965-4B64-A29E-CBED7B21E283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FE1120-857D-4424-9DBA-4C208637C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FE1120-857D-4424-9DBA-4C208637C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FE1120-857D-4424-9DBA-4C208637C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FE1120-857D-4424-9DBA-4C208637C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD55284-3294-409D-ACC0-2EAC46436D03}
+	EndGlobalSection
+EndGlobal
